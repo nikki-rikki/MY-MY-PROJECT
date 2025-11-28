@@ -1,1 +1,1 @@
-print("POKA MIR!")
+print("POKA MIR!!")
